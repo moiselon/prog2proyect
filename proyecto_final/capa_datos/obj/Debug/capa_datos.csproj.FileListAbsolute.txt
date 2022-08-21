@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\capa_datos.dll
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\capa_datos.pdb
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\capa_entidad.dll
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\capa_entidad.pdb
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\HP\Desktop\proyecto_final\capa_datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Desktop\proyecto_final\capa_datos\obj\Debug\capa_datos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\proyecto_final\capa_datos\obj\Debug\capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proyecto_final\capa_datos\obj\Debug\capa_datos.csproj.CopyComplete
+C:\Users\HP\Desktop\proyecto_final\capa_datos\obj\Debug\capa_datos.dll
+C:\Users\HP\Desktop\proyecto_final\capa_datos\obj\Debug\capa_datos.pdb
